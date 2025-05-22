@@ -4,3 +4,10 @@ body {
 h1{
     color: blueviolet;
 }
+h2 {
+    font-size: large;
+    font-style: italic;
+}
+.imagem{
+    width: 30%;
+}
